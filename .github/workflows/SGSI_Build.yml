@@ -7,8 +7,8 @@ on:
     types: [started]
     
 env:              
-  ROM_URL: 'https://dl.google.com/developers/android/sc/images/ota/redfin-ota-spp2.210219.008-3d61e529.zip'
-  ZIP_NAME: 'update.zip'
+  ROM_URL: ' https://dropmirror.bahacec.workers.dev/0:/CY_pine-11.0-20210909-1316-.zip'
+  ZIP_NAME: 'CY_pine-11.0-20210909-1316-.zip'
   OS_TYPE: 'Generic'
   BUILD_TYPE: 'ab'
   REPACK_NAME: 'SGSI.zip'
